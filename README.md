@@ -1,1 +1,2 @@
 # DadoPropio
+Es un dado (dos en realidad) que almacenan los valores al ser lanzados. Está incompleto, ya que por ejemplo el botón reset resetea la posición de los dados pero no elimina los valores para que vuelvan a ser seteados en la siguiente tirada.
